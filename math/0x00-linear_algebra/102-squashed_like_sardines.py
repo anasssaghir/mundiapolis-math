@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Module that concatenates two matrices
-"""
-
 
 def matrix_shape(matrix):
     """
