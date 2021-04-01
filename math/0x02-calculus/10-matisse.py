@@ -22,3 +22,4 @@ def poly_derivative(poly):
             else:
                 return None
         return derivative
+    
