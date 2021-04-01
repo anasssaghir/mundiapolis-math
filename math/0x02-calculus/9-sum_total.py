@@ -14,3 +14,4 @@ def summation_i_squared(n):
         result = 0
         result = map(lambda i: i ** 2, numbers)
         return sum(result)
+    
