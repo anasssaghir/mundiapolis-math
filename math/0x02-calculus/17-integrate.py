@@ -3,7 +3,6 @@
 Une fonction qui calcule l'intégrale d'un polynôme
 """
 
-
 def poly_integral(poly, C=0):
     """
     Renvoie une liste de l'intégrale
